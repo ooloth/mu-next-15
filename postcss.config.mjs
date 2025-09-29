@@ -1,5 +1,9 @@
+// See: https://tailwindcss.com/docs/installation/framework-guides/nextjs
+
 const config = {
-  plugins: ["@tailwindcss/postcss"],
+  plugins: {
+    "@tailwindcss/postcss": {},
+  },
 };
 
 export default config;
