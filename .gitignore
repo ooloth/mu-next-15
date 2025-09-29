@@ -11,4 +11,5 @@ out/
 next-env.d.ts
 
 # Mine
-.env*
+.env
+.env.local
