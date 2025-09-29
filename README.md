@@ -1,2 +1,3 @@
 # mu-next-15
-The 11th iteration of my personal website. Built with Next, Tailwind CSS, shadcn/ui, Cloudinary and GitHubActions.
+
+WIP rebuild of michaeluloth.com. Experimenting with replicating Astro's excellent support for typed markdown frontmatter without the headaches of no Astro-specific frontend state solution that feels unified with the rest of Astro's API.
